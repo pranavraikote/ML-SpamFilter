@@ -9,9 +9,9 @@ The code focuses on the content for the filtering since it is a very widely used
 
 # Pre-requisites
 Download and install the following modules: <br> 
-1)pandas- pip install pandas <br>
-2)nltk- pip install nltk and run command nltk.download() <br>
-3)sklearn- pip install sklearn <br>
+1)pandas - pip install pandas <br>
+2)nltk - pip install nltk and run command nltk.download() <br>
+3)sklearn - pip install sklearn <br>
 
 # Author
 Pranav Raikote
