@@ -1,4 +1,4 @@
-# spam-filter
+# ML-SpamFilter
 A Spam Filter implemented in Python
 
 # About
